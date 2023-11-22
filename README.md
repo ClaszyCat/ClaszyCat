@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ClaszyCat&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaszyCat&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### 😎👍
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
